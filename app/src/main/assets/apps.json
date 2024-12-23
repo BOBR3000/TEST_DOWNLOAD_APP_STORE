@@ -1,0 +1,14 @@
+[
+  {
+    "name": "LUCKY PATCHER",
+    "description": "Приложение, позволяющая работать с корневыми файлами Android приложений",
+    "apkUrl": "https://github.com/BOBR3000/APK_FILES/raw/refs/heads/main/Lucky%20Patcher-v11.4.8_build_1908.apk",
+    "fileName": "Lucky Patcher.apk"
+  },
+  {
+    "name": "ERUDITE TRANSLATOR",
+    "description": "Приложение, для перевода на другой язык, которое имеет широкий функционал",
+    "apkUrl": "https://github.com/BOBR3000/APK_FILES/raw/refs/heads/main/com.erudite.translator_73.apk",
+    "fileName": "Erudite Translator.apk"
+  }
+]
